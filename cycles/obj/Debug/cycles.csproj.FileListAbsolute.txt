@@ -1,8 +1,0 @@
-D:\ОвчарукМарков 215\cycles\bin\Debug\cycles.exe.config
-D:\ОвчарукМарков 215\cycles\bin\Debug\cycles.exe
-D:\ОвчарукМарков 215\cycles\bin\Debug\cycles.pdb
-D:\ОвчарукМарков 215\cycles\obj\Debug\cycles.csproj.AssemblyReference.cache
-D:\ОвчарукМарков 215\cycles\obj\Debug\cycles.csproj.SuggestedBindingRedirects.cache
-D:\ОвчарукМарков 215\cycles\obj\Debug\cycles.csproj.CoreCompileInputs.cache
-D:\ОвчарукМарков 215\cycles\obj\Debug\cycles.exe
-D:\ОвчарукМарков 215\cycles\obj\Debug\cycles.pdb
