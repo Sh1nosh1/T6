@@ -1,0 +1,8 @@
+D:\ОАиП\Th6\bin\Debug\Th6.exe.config
+D:\ОАиП\Th6\bin\Debug\Th6.exe
+D:\ОАиП\Th6\bin\Debug\Th6.pdb
+D:\ОАиП\Th6\obj\Debug\Th6.csproj.AssemblyReference.cache
+D:\ОАиП\Th6\obj\Debug\Th6.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\Th6\obj\Debug\Th6.csproj.CoreCompileInputs.cache
+D:\ОАиП\Th6\obj\Debug\Th6.exe
+D:\ОАиП\Th6\obj\Debug\Th6.pdb
